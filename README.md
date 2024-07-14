@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # add_to_cart
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-projects
+>>>>>>> 2ac7fb4b3461a720ad3816e6eadeff0746f06757
